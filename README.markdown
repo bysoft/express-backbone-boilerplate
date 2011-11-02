@@ -7,7 +7,7 @@ combination with [backbone.js](http://documentcloud.github.com/backbone/).
 
 1. Clone the project:
 
-    git clone git@github.com:jamuhl/express-backbone-boilerplate.git
+    `git clone git@github.com:jamuhl/express-backbone-boilerplate.git`
     
 2. run `npm install`
 

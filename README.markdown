@@ -30,6 +30,6 @@ now you can run:
 
 - __Nick Rabinowitz__ for inspiring me 'how to use backbone' in his [gapvis project](https://github.com/nrabinowitz/gapvis)
 - __The team around twitter bootstrap__ for the excellent [work](http://twitter.github.com/bootstrap/)
-- __Jim Newbery__ for his 3 parts posts [Testing Backbone applications with Jasmine and Sinon](http://tinnedfruit.com/2011/03/03/testing-backbone-apps-with-jasmine-sinon.html)
+- __Jim Newbery__ for his 3 posts about [Testing Backbone applications with Jasmine and Sinon](http://tinnedfruit.com/2011/03/03/testing-backbone-apps-with-jasmine-sinon.html)
 - and all the others i missed
 

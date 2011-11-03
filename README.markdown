@@ -7,13 +7,13 @@ combination with [backbone.js](http://documentcloud.github.com/backbone/).
 
 1. Clone the project:
 
-    git clone git@github.com:jamuhl/express-backbone-boilerplate.git
+    `git clone git@github.com:jamuhl/express-backbone-boilerplate.git`
     
 2. run `npm install`
 
 3. start the app `node server.js`
 
-4. direct your browser to _localhost:3000_ or _localhost:3000/test_ to run the tests
+4. direct your browser to [localhost:3000](http://localhost:3000) or [localhost:3000/test](http://localhost:3000/test) to run the tests
 
 In order to use [jake](https://github.com/mde/jake) and [docco](http://jashkenas.github.com/docco/) you should global install the 
 packages:
@@ -30,5 +30,6 @@ now you can run:
 
 - __Nick Rabinowitz__ for inspiring me 'how to use backbone' in his [gapvis project](https://github.com/nrabinowitz/gapvis)
 - __The team around twitter bootstrap__ for the excellent [work](http://twitter.github.com/bootstrap/)
+- __Jim Newbery__ for his 3 posts about [Testing Backbone applications with Jasmine and Sinon](http://tinnedfruit.com/2011/03/03/testing-backbone-apps-with-jasmine-sinon.html)
 - and all the others i missed
 

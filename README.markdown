@@ -13,7 +13,7 @@ combination with [backbone.js](http://documentcloud.github.com/backbone/).
 
 3. start the app `node server.js`
 
-4. direct your browser to _localhost:3000_ or _localhost:3000/test_ to run the tests
+4. direct your browser to [localhost:3000](http://localhost:3000) or [localhost:3000/test](http://localhost:3000/test) to run the tests
 
 In order to use [jake](https://github.com/mde/jake) and [docco](http://jashkenas.github.com/docco/) you should global install the 
 packages:

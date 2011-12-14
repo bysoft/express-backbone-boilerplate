@@ -1,6 +1,6 @@
 var express = require('express')
   , app = express.createServer()
-  , gzippo = require('gzippo')
+  //, gzippo = require('gzippo')
   , stylus = require('stylus')
   , nib = require('nib')
   , utils = require('./app/utils/utils');
@@ -54,7 +54,8 @@ app.configure('development', function() {
 // run NODE_ENV=production node server.js
 app.configure('production', function() {
     app.use(express.errorHandler());
-    app.use(gzippo.staticGzip(__dirname + '/public', {maxAge: 31557600000})); 
+    app.use(express['static'](__dirname + '/public')); 
+    //app.use(gzippo.staticGzip(__dirname + '/public', {maxAge: 31557600000})); 
 });
 
 // routes
